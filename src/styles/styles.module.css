@@ -1,0 +1,25 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .card-example {
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+  
+  .card-example::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .card {
+    position: inherit !important;
+    min-width: 300px !important;
+  }
+  .buttoncolor{
+    background: '#F64A8A';
+    border-bottom: '#F64A8A';
+    margin-right: 10;
+ 
+  }
+  
